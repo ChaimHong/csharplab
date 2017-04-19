@@ -1,6 +1,14 @@
-﻿<Properties StartupItem="csharplab/csharplab.csproj">
+﻿<Properties StartupItem="network/network.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="inheritance/A.cs">
+    <Files>
+      <File FileName="network/Process.cs" Line="1" Column="1" />
+      <File FileName="network/Program.cs" Line="1" Column="1" />
+      <File FileName="network/Proto.cs" Line="1" Column="1" />
+      <File FileName="inheritance/Program.cs" Line="10" Column="23" />
+      <File FileName="inheritance/A.cs" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,5 @@
+/Users/chaim/github.com/ChaimHong/csharplab/inheritance/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/chaim/github.com/ChaimHong/csharplab/inheritance/bin/Debug/inheritance.exe.mdb
+/Users/chaim/github.com/ChaimHong/csharplab/inheritance/bin/Debug/inheritance.exe
+/Users/chaim/github.com/ChaimHong/csharplab/inheritance/obj/x86/Debug/inheritance.exe
+/Users/chaim/github.com/ChaimHong/csharplab/inheritance/obj/x86/Debug/inheritance.exe.mdb
